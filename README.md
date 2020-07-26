@@ -5,7 +5,7 @@ REQUIRED Openvino ver 2020.1
 
 
 
-American-Sign-Language-translator was done by Zacb fleming and 'Kayode Akanni as a project of Intel Edge Al project which was submitted under AI for Social good category on march, 20202.
+American-Sign-Language-translator was done by Zacb fleming and 'Kayode Akanni as a project of Intel Edge Al project which was submitted under AI for Social good category on march, 2020.
 
 
 ASL_win.py is untested but is intended to add support for windows
